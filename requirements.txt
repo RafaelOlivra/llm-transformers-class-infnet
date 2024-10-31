@@ -1,6 +1,5 @@
 streamlit
 pandas
-huggingface_hub
 fastapi
 transformers
 uvicorn
