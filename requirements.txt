@@ -5,6 +5,7 @@ transformers
 uvicorn
 pydentic
 httpie
+git+https://github.com/huggingface/accelerate
 torch
 torchvision
 torchaudio
